@@ -33,7 +33,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/expressjs/expressjs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -52,7 +51,32 @@ JSON         46 mins         █▓░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-🚧 **My Todoist Stats:**
+🚧 **My Roadmap:**
+
+#### FRONT-END
+
+![](https://img.shields.io/badge/FE-TypeScript-3178C6?style=for-the-badge&logo=TypeScript)
+![](https://img.shields.io/badge/FE-JavaScript-F7DF1E?style=for-the-badge&logo=Javascript)
+![](https://img.shields.io/badge/FE-REACT-00AEFF?style=for-the-badge&logo=React)
+![](https://img.shields.io/badge/FE-REACTHOOKS-00AEFF?style=for-the-badge&logo=React)
+![](https://img.shields.io/badge/FE-REDUX-darkviolet?style=for-the-badge&logo=Redux)
+![](https://img.shields.io/badge/FE-REDUXSAGA-6EBE49?style=for-the-badge&logo=Redux-Saga)
+
+![](https://img.shields.io/badge/FE-SASS-CC6699?style=for-the-badge&logo=Sass)</br>
+![](https://img.shields.io/badge/FE-GraphQL-E10098?style=for-the-badge&logo=GraphQL)
+
+#### BACK-END
+
+![](https://img.shields.io/badge/BE-NODEJS-339933?style=for-the-badge&logo=Node.js)
+![](https://img.shields.io/badge/BE-MySQL-4479A1?style=for-the-badge&logo=MySQL)
+![](https://img.shields.io/badge/BE-SEQUELIZE-3178C6?style=for-the-badge&logo=CodeSandbox)
+
+#### DEPLOY
+
+![](https://img.shields.io/badge/DP-AWS-FF9900?style=for-the-badge&logo=Amazon)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeway-0841&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/codeway-0841)</br>
+![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=codeway-0841&theme=dark)
 
 📈 My GitHub Stats
 
