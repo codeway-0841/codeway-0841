@@ -61,14 +61,22 @@ JSON         46 mins         █▓░░░░░░░░░░░░░░░
 ![](https://img.shields.io/badge/FE-REACTHOOKS-00AEFF?style=for-the-badge&logo=React)
 ![](https://img.shields.io/badge/FE-REDUX-darkviolet?style=for-the-badge&logo=Redux)
 ![](https://img.shields.io/badge/FE-REDUXSAGA-6EBE49?style=for-the-badge&logo=Redux-Saga)
+![](https://img.shields.io/badge/FE-React_Router-CA4245?style=for-the-badge&logo=react-router)
+![](https://img.shields.io/badge/FE-SASS-CC6699?style=for-the-badge&logo=Sass)
+![](https://img.shields.io/badge/FE-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![](https://img.shields.io/badge/FE-Material--UI-0081CB?style=for-the-badge&logo=material-ui)
 
-![](https://img.shields.io/badge/FE-SASS-CC6699?style=for-the-badge&logo=Sass)</br>
+![](https://img.shields.io/badge/FE-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
+![](https://img.shields.io/badge/FE-styled--components-DB7093?style=for-the-badge&logo=styled-components)
 ![](https://img.shields.io/badge/FE-GraphQL-E10098?style=for-the-badge&logo=GraphQL)
 
 #### BACK-END
 
 ![](https://img.shields.io/badge/BE-NODEJS-339933?style=for-the-badge&logo=Node.js)
+![](https://img.shields.io/badge/BE-Express.js-404D59?style=for-the-badge)
+![](https://img.shields.io/badge/BE-PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![](https://img.shields.io/badge/BE-MySQL-4479A1?style=for-the-badge&logo=MySQL)
+![](https://img.shields.io/badge/BE-MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![](https://img.shields.io/badge/BE-SEQUELIZE-3178C6?style=for-the-badge&logo=CodeSandbox)
 
 #### DEPLOY
