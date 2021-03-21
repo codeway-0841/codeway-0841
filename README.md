@@ -65,7 +65,6 @@ JSON         46 mins         █▓░░░░░░░░░░░░░░░
 ![](https://img.shields.io/badge/FE-SASS-CC6699?style=for-the-badge&logo=Sass)
 ![](https://img.shields.io/badge/FE-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![](https://img.shields.io/badge/FE-Material--UI-0081CB?style=for-the-badge&logo=material-ui)
-
 ![](https://img.shields.io/badge/FE-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
 ![](https://img.shields.io/badge/FE-styled--components-DB7093?style=for-the-badge&logo=styled-components)
 ![](https://img.shields.io/badge/FE-GraphQL-E10098?style=for-the-badge&logo=GraphQL)
