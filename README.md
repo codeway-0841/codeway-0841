@@ -41,6 +41,27 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <!--START_SECTION:waka-->
 
+<hr>
+:wave: Hello, My name is Codeway and i :heart: **R**
+I have a variety of interests and I am always learning something new.
+<hr>
+<details>
+  <summary>Github Statistics...</summary>
+  <p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=tallguyjenks&show_icons=true"/>
+  </p>
+</details>
+<details>
+  <summary>Language Statistics...</summary><br/>
+  <p align = "center">
+    <img src="https://wakatime.com/share/@ff805286-15b0-4068-99e2-9afe57c8ecba/bec82730-4d49-4f16-adce-e542a15291d7.svg" height="400"/>
+  </p>
+</details>
+<hr>
+-->
+
+
+
 ```text
 JavaScript   7 hrs 13 mins   ██████████████▒░░░░░░░░░░   56.80 %
 TypeScript   2 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
