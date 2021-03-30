@@ -48,7 +48,7 @@ I have a variety of interests and I am always learning something new.
 <details>
   <summary>Github Statistics...</summary>
   <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tallguyjenks&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=codeway-0841&show_icons=true"/>
   </p>
 </details>
 <details>
