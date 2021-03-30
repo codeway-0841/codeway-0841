@@ -87,4 +87,6 @@ JSON         46 mins         █▓░░░░░░░░░░░░░░░
 
 📈 My GitHub Stats
 
+<figure><embed src="https://wakatime.com/share/@ff805286-15b0-4068-99e2-9afe57c8ecba/bec82730-4d49-4f16-adce-e542a15291d7.svg"></embed></figure>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codeway-0841&show_icons=true&theme=gotham" alt="codeway-0841" />
