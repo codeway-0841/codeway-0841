@@ -103,7 +103,6 @@ JSON         46 mins         █▓░░░░░░░░░░░░░░░
 
 ![](https://img.shields.io/badge/DP-AWS-FF9900?style=for-the-badge&logo=Amazon)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeway-0841&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/codeway-0841)</br>[![Source Karma badge for @codeway-0841](https://sourcekarma-og.vercel.app/api/codeway-0841/github)](https://sourcekarma.vercel.app/codeway-0841)
 ![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=codeway-0841&theme=dark)
 
 📈 My GitHub Stats
