@@ -14,7 +14,7 @@
 
 <br />
 
-Hi, I'm [Ablyamitov Ruslan](https://github.com/codeway-0841), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Ruslan](https://github.com/codeway-0841), a passionate self-taught Full Stack web developer and a freelance software engineer from Uzbekistan. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -42,7 +42,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <!--START_SECTION:waka-->
 
 <hr>
-:wave: Hello, My name is Codeway and i :heart: **R**
+:wave: Hello, My name is Codeway
 I have a variety of interests and I am always learning something new.
 <hr>
 <details>
@@ -109,4 +109,4 @@ JSON         46 mins         █▓░░░░░░░░░░░░░░░
 
 <figure><embed src="https://wakatime.com/share/@ff805286-15b0-4068-99e2-9afe57c8ecba/bec82730-4d49-4f16-adce-e542a15291d7.svg"></embed></figure>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codeway-0841&show_icons=true&theme=gotham" alt="codeway-0841" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=codeway-0841&show_icons=true&theme=gotham" alt="codeway-0841" />
