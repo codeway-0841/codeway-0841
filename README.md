@@ -38,6 +38,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<hr>
+:wave: Hello, My name is Codeway
+I have a variety of interests and I am always learning something new.
+<hr>
+<br/>
  <summary>⚡ Recent GitHub Activity</summary>
 <br/>
 <img alt="codeway-0841 Activity Graph" style="width:800px" src="https://activity-graph.herokuapp.com/graph?username=codeway-0841&custom_title=codeway-0841's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
