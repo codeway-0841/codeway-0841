@@ -18,7 +18,7 @@ Hi, I'm [Ruslan](https://github.com/codeway-0841), a passionate self-taught Full
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="680" height="506" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@RuslanAblyamit1](https://twitter.com/RuslanAblyamit1);
@@ -37,41 +37,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-
-<!--START_SECTION:waka-->
-
-<hr>
-:wave: Hello, My name is Codeway
-I have a variety of interests and I am always learning something new.
-<hr>
-<details>
-  <summary>Github Statistics...</summary>
-  <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=codeway-0841&show_icons=true"/>
-  </p>
-</details>
-<details>
-  <summary>Language Statistics...</summary><br/>
-  <p align = "center">
-    <img src="https://wakatime.com/share/@ff805286-15b0-4068-99e2-9afe57c8ecba/bec82730-4d49-4f16-adce-e542a15291d7.svg" height="400"/>
-  </p>
-</details>
-<hr>
--->
-
-
-<figure><embed src="https://wakatime.com/share/@codeway/0972c015-308b-47ce-b0e0-f5799b5100f2.svg"></embed></figure>
-```text
-JavaScript   7 hrs 13 mins   ██████████████▒░░░░░░░░░░   56.80 %
-TypeScript   2 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
-Nodejs       59 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 %
-SCSS         58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-JSON         46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-```
-
-<!--END_SECTION:waka-->
-
+ <summary>⚡ Recent GitHub Activity</summary>
+<br/>
+<img alt="codeway-0841 Activity Graph" style="width:800px" src="https://activity-graph.herokuapp.com/graph?username=codeway-0841&custom_title=codeway-0841's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 🚧 **My Roadmap:**
 
 #### FRONT-END
@@ -104,9 +72,3 @@ JSON         46 mins         █▓░░░░░░░░░░░░░░░
 ![](https://img.shields.io/badge/DP-AWS-FF9900?style=for-the-badge&logo=Amazon)
 
 ![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=codeway-0841&theme=dark)
-
-📈 My GitHub Stats
-
-<figure><embed src="https://wakatime.com/share/@codeway/0972c015-308b-47ce-b0e0-f5799b5100f2.svg"></embed></figure>
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=codeway-0841&show_icons=true&theme=gotham" alt="codeway-0841" />
