@@ -61,7 +61,7 @@ I have a variety of interests and I am always learning something new.
 -->
 
 
-
+<figure><embed src="https://wakatime.com/share/@codeway/0972c015-308b-47ce-b0e0-f5799b5100f2.svg"></embed></figure>
 ```text
 JavaScript   7 hrs 13 mins   ██████████████▒░░░░░░░░░░   56.80 %
 TypeScript   2 hrs 2 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.01 %
