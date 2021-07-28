@@ -71,4 +71,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 ![](https://img.shields.io/badge/DP-AWS-FF9900?style=for-the-badge&logo=Amazon)
 
-![descholar-ceo](https://github-readme-streak-stats.herokuapp.com/?user=codeway-0841&theme=dark)
+<summary>💻 GitHub Profile Stats</summary>
+  <br/>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="codeway-0841 Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=codeway-0841&layout=compact&theme=react&hide_border=true" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="codeway-0841 Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeway-0841&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="codeway-0841 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeway-0841&langs_count=8&layout=compact&theme=react&hide_border=true&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <br/>
