@@ -20,11 +20,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
  
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+  <br/>
+
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@RuslanAblyamit1](https://twitter.com/RuslanAblyamit1);
 - 📝 [Resume]()
-
 
 <hr>
 :wave: Hello, My name is Codeway
@@ -33,7 +33,7 @@ I have a variety of interests and I am always learning something new.
 <br/>
  <summary>⚡ Recent GitHub Activity</summary>
 <br/>
-<br/>
+
 <img alt="codeway-0841 Activity Graph" style="width:800px" src="https://activity-graph.herokuapp.com/graph?username=codeway-0841&custom_title=codeway-0841's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
 
 ### 👨‍💻 Programming languages
