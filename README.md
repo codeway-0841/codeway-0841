@@ -114,4 +114,7 @@ I have a variety of interests and I am always learning something new.
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="codeway-0841 Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeway-0841&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="codeway-0841 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeway-0841&langs_count=8&layout=compact&theme=react&hide_border=true&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=codeway-0841)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=codeway-0841&column=8&margin-w=15theme=onedark"/>
+</a>
