@@ -116,5 +116,5 @@ I have a variety of interests and I am always learning something new.
   <br/>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=codeway-0841&column=8&margin-w=15theme=onedark"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=codeway-0841&column=8&margin-w=15&theme=onedark"/>
 </a>
