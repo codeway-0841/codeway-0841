@@ -24,7 +24,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@RuslanAblyamit1](https://twitter.com/RuslanAblyamit1);
-- 📝 [Resume]()
+- 📝 [Resume](https://cv-codeway.netlify.app/)
 
 <hr>
 :wave: Hello, My name is Codeway
