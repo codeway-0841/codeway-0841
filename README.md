@@ -115,7 +115,7 @@ I have a variety of interests and I am always learning something new.
 <summary>💻 GitHub Profile Stats</summary>
   <br/>
  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="codeway-0841 Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=codeway-0841&layout=compact&theme=react&hide_border=true" height="192px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="codeway-0841 Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeway-0841&show_icons=true&count_private=true&theme=react&hide_border=true&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="codeway-0841 Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeway-0841&show_icons=true&count_private=true&theme=maroongold&bg_color=15,000000,000000,000000,F0A500,000000&icon_color=F0A500&title_color=F9B208&border_color=F9B208&custom_title=Codeway" height="192px"/></a>
   <br/>
   
 
