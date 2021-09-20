@@ -114,8 +114,8 @@ I have a variety of interests and I am always learning something new.
 
 <summary>💻 GitHub Profile Stats</summary>
   <br/>
- <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="codeway-0841 Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=codeway-0841&theme=neon-dark&background=000000&stroke=FFBE00&ring=FFCF00&fire=FFCF00&currStreakNum=FFAE02&sideNums=FFB600&currStreakLabel=FFB600&sideLabels=FFCF00&border=F9B208&dates=9F5D03" height="192px" width="430px"/></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="codeway-0841 Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeway-0841&show_icons=true&count_private=true&theme=maroongold&bg_color=15,000000,000000,000000,F0A500,000000&icon_color=F0A500&title_color=F9B208&border_color=F9B208&custom_title=Codeway" height="192px" width="430px"/></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="codeway-0841 Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=codeway-0841&theme=neon-dark&background=000000&stroke=FFBE00&ring=FFCF00&fire=FFCF00&currStreakNum=FFAE02&sideNums=FFB600&currStreakLabel=FFB600&sideLabels=FFCF00&border=F9B208&dates=9F5D03" height="192px" width="425px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="codeway-0841 Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeway-0841&show_icons=true&count_private=true&theme=maroongold&bg_color=15,000000,000000,000000,F0A500,000000&icon_color=F0A500&title_color=F9B208&border_color=F9B208&custom_title=Codeway" height="192px" width="425px"/></a>
   <br/>
   
 
