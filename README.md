@@ -19,7 +19,7 @@ Hi, I'm [Ruslan](https://github.com/codeway-0841), a passionate self-taught Full
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
  
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/78665080/134055487-c8d0d080-40d2-43eb-9b08-7387216942f2.jpg" width="600" height="320" />
   <br/>
 
 - 💬 Ask me about anything, I am happy to help;
