@@ -26,10 +26,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 📫 How to reach me: [@RuslanAblyamit1](https://twitter.com/RuslanAblyamit1);
 - 📝 [Resume](https://cv-codeway.netlify.app/)
 
-<hr>
-:wave: Hello, My name is Codeway
-I have a variety of interests and I am always learning something new.
-<hr>
 <br/>
  <summary>⚡ Recent GitHub Activity</summary>
 <br/>
