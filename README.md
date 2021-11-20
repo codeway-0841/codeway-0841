@@ -11,6 +11,7 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=codeway-0841.codeway-0841)
+<img align="right" alt="millat" src="https://www.codewars.com/users/codeway-0841/badges/small" />
 
 <br />
 
