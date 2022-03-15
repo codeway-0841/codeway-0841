@@ -6,9 +6,7 @@
 <a href="">
   <img align="left" alt="Ruslan Ablyamitov" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/?_ga=2.93329819.725627408.1616280126-156158107.1612482635">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 
 ![](https://visitor-badge.glitch.me/badge?page_id=codeway-0841.codeway-0841)
 <img align="right" alt="millat" src="https://www.codewars.com/users/codeway-0841/badges/small" />
