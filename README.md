@@ -13,7 +13,7 @@
 
 <br />
 
-Hi, I'm [Ruslan](https://github.com/codeway-0841), a passionate self-taught Full Stack web developer and a freelance software engineer from Uzbekistan. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm [Sunnat](https://github.com/codeway-0841), a passionate self-taught Full Stack web developer and a freelance software engineer from Uzbekistan. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
@@ -22,7 +22,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <br/>
 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@RuslanAblyamit1](https://twitter.com/RuslanAblyamit1);
+- 📫 How to reach me: [@](https://twitter.com/RuslanAblyamit1);
 - 📝 [Resume](https://cv-codeway.netlify.app/)
 
 <br/>
