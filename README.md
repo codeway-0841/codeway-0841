@@ -3,11 +3,6 @@
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=codeway-0841.codeway-0841)
-<img align="right" alt="millat" src="https://www.codewars.com/users/codeway-0841/badges/small" />
-
-<br />
-
 Hi, I'm [Ruslan](https://github.com/codeway-0841), a passionate self-taught Full Stack web developer and a freelance software engineer from Uzbekistan. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
