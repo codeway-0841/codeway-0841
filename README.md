@@ -18,8 +18,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
  <summary>⚡ Recent GitHub Activity</summary>
 <br/>
 
-<img alt="codeway-0841 Activity Graph" style="width:800px" src="https://activity-graph.herokuapp.com/graph?username=codeway-0841&custom_title=codeway-0841's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-
 ### 👨‍💻 Programming languages
 
 <p>
