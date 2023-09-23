@@ -11,12 +11,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <br/>
 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@](https://twitter.com/RuslanAblyamit1);
+- 📫 How to reach me: [@](https://x.com/RuslanAblyamit1);
 - 📝 [Resume](https://cv-codeway.netlify.app/)
 
-<br/>
- <summary>⚡ Recent GitHub Activity</summary>
-<br/>
 
 ### 👨‍💻 Programming languages
 
